@@ -1,0 +1,6 @@
+{
+  "voila": {
+    "enable_nbextensions": true,
+    "template": "materialwidget"
+  }
+}
