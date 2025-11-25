@@ -13,6 +13,7 @@ Click this once the repo is live:
 Vertical version: 
 
 https://mybinder.org/v2/gh/JaimeOrtega86/IntroPhotonics-2DFFT/main?urlpath=voila%2Frender%2FpolishedFFT.ipynb
+
 2x2 panel version: 
 
 https://mybinder.org/v2/gh/JaimeOrtega86/IntroPhotonics-2DFFT/main?urlpath=voila%2Frender%2FpolishedFFT2x2.ipynb
