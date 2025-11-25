@@ -3,3 +3,4 @@ matplotlib
 pillow
 ipywidgets
 voila
+# trigger rebuild
